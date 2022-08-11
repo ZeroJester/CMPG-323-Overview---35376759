@@ -46,5 +46,5 @@ This is a public GitHub repository for CMPG 323 - Project 1
 ## Security and Privacy of Sensitive Information
     For sensitive information, a seperate textfile will be created. The program will read data from this textfile when
     necessary, but the textfile will not be available to the users of the program. This method can be implemented through
-    various GitHub security features such as "libsodium sealed box". This will ensure the safety of sensitive credentials, 
+    various GitHub security features such as "libsodium sealed box". This will ensure the safety of sensitive information, 
     and users, other than the creator, will not be able to see, edit or use this information.
