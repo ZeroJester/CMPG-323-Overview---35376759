@@ -12,15 +12,15 @@ This is a public GitHub repository for CMPG 323 - Project 1
     Each project will be done in a seperate, dedicated repository.
     The links to each repository will be added as they are created later on.
    
-### Diagram
+## Diagram
 ![Uploading Project1-Planning-Diagram.png…]()
 
 
-#### Branching Strategy
+## Branching Strategy
 
 
-##### Implimentation of a .gitignore file
+## Implimentation of a .gitignore file
 
 
 
-###### Security and Privacy of Sensitive Information
+## Security and Privacy of Sensitive Information
