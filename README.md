@@ -19,8 +19,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
 
 
 ## Branching Strategy
-
-###GitHub Flow
+    GitHub Flow
 
     I will be using the GitHub Flow branching strategy. 
     This strategy allows me to focus on one feature or hot-fix at a time, improving efficiency.
