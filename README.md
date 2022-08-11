@@ -37,8 +37,14 @@ This is a public GitHub repository for CMPG 323 - Project 1
         
 
 ## Implimentation of a .gitignore file
-    The .gitignore file of each repository will be used to hide information that will be useless to the user, or might be sensitive information of the creator of the project. This information might include notes taken, a to-do list, a list of features that need to be added, a list of hot-fixes that need to be done and implemented, or sensitive information such as usernames, passwords or any other credentials that might not be of use to the users.
+    The .gitignore file of each repository will be used to hide information that will be useless to the user, 
+    or might be sensitive information of the creator of the project. This information might include notes taken, 
+    a to-do list, a list of features that need to be added, a list of hot-fixes that need to be done and implemented, 
+    or sensitive information such as usernames, passwords or any other credentials that might not be of use to the users.
 
 
 ## Security and Privacy of Sensitive Information
-    For sensitive information, a seperate textfile will be created. The program will read data from this textfile when necessary, but the textfile will not be available to the users of the program. This method can be implemented through various GitHub security features such as "libsodium sealed box". This will ensure the safety of sensitive credentials, and users, other than the creator, will not be able to see, edit or use this information.
+    For sensitive information, a seperate textfile will be created. The program will read data from this textfile when
+    necessary, but the textfile will not be available to the users of the program. This method can be implemented through
+    various GitHub security features such as "libsodium sealed box". This will ensure the safety of sensitive credentials, 
+    and users, other than the creator, will not be able to see, edit or use this information.
