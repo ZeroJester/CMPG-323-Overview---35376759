@@ -17,7 +17,20 @@ This is a public GitHub repository for CMPG 323 - Project 1
 
 
 ## Branching Strategy
-
+    I will be using the GitHub Flow branching strategy. 
+    This strategy allows me to focus on one feature or hot-fix at a time, improving efficiency.
+    This is a very simple, yet effective branching strategy, and can even be used with complex projects.
+    I will be the only person working on these projects, so only one version of the code will be available at all times.
+    
+    Branches I will be using:
+        -main
+        -feature
+        
+    Features will first be released into the feature branch for testing and evaluation.
+    After the feature is approved, it will be merged into the main branch.
+    Rollbacks to the main branch can be performed if necessary.
+        
+        
 
 ## Implimentation of a .gitignore file
 
