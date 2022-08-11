@@ -13,7 +13,8 @@ This is a public GitHub repository for CMPG 323 - Project 1
     The links to each repository will be added as they are created later on.
    
 ## Diagram
-![Project1-Planning-Diagram](https://user-images.githubusercontent.com/85791779/184125118-e3898184-810b-4c87-8933-74d5969a1191.png)
+
+![Project-1-Planning-Diagram](https://user-images.githubusercontent.com/85791779/184175044-2b2ce65a-eb47-49c0-93dd-899a049ee090.png)
 
 
 
