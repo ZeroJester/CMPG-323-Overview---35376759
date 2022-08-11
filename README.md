@@ -3,6 +3,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
 
 
 ## Repositories:
+    Repository 1:   This repository will be used for Project 1 (Current Link)
     Repository 2:   This repository will be used for Project 2 (link here)
     Repository 3:   This repository will be used for Project 3 (link here)
     Repository 4:   This repository will be used for Project 4 (link here)
