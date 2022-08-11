@@ -13,6 +13,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
     The links to each repository will be added as they are created later on.
    
 ### Diagram
+![Uploading Project1-Planning-Diagram.png…]()
 
 
 #### Branching Strategy
