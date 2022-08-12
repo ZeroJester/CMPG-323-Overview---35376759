@@ -30,6 +30,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
     Branches I will be using:
         -main
         -feature
+        -hotfix
         
     Features will first be released into the feature branch for testing and evaluation.
     After the feature is approved, it will be merged into the main branch.
