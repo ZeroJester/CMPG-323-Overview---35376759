@@ -3,7 +3,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
 
 
 ## Repositories:
-    Repository 1:   This repository will be used for Project 1 (Current Link)
+    Repository 1:   This repository will be used for Project 1 (CMPG-323-Overview---35376759)
     Repository 2:   This repository will be used for Project 2 (link here)
     Repository 3:   This repository will be used for Project 3 (link here)
     Repository 4:   This repository will be used for Project 4 (link here)
@@ -22,7 +22,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
 ## Branching Strategy
     GitHub Flow
 
-    I will be using the GitHub Flow branching strategy. 
+    I will be using the GitHub Flow branching strategy for each project, as the projects are seperate. 
     This strategy allows me to focus on one feature or hot-fix at a time, improving efficiency.
     This is a very simple, yet effective branching strategy, and can even be used with complex projects.
     I will be the only person working on these projects, so only one version of the code will be available at all times.
@@ -43,7 +43,7 @@ This is a public GitHub repository for CMPG 323 - Project 1
     or might be sensitive information of the creator of the project. This information might include notes taken, 
     a to-do list, a list of features that need to be added, a list of hot-fixes that need to be done and implemented, 
     or sensitive information such as usernames, passwords or any other credentials that might not be of use to the users.
-
+    
 
 ## Security and Privacy of Sensitive Information
     For sensitive information, a seperate file (typically a textfile) will be created. The program will read data from 
