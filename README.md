@@ -14,7 +14,8 @@ This is a public GitHub repository for CMPG 323 - Project 1
    
 ## Diagram
 
-![Project-1-Planning-Diagram](https://user-images.githubusercontent.com/85791779/184175044-2b2ce65a-eb47-49c0-93dd-899a049ee090.png)
+![diagram](https://user-images.githubusercontent.com/85791779/199679056-39e38340-383a-4d58-a96a-480b8270d8b0.png)
+
 
 
 
