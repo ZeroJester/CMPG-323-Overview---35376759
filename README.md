@@ -10,7 +10,6 @@ This is a public GitHub repository for CMPG 323 - Project 1
     Repository 5:   This repository will be used for Project 5 (https://github.com/ZeroJester/CMPG-323-Project-5---35376759)
 
     Each project will be done in seperate, dedicated repositories.
-    The links to each repository will be added as they are created later on.
    
 ## Diagram
 
